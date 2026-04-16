@@ -1,0 +1,6 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- 树冠 -->
+  <circle cx="32" cy="24" r="16" fill="#8B7355" opacity="0.8"/>
+  <!-- 树干 -->
+  <rect x="26" y="32" width="12" height="24" rx="2" fill="#A89078"/>
+</svg>
